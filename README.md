@@ -1,16 +1,46 @@
-## Hi there 👋
+# OKKULT PROTOCOL
 
-<!--
-**okkult-dev/okkult-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+> Zero-knowledge privacy infrastructure for Ethereum.
+```
 
-Here are some ideas to get you started:
+```bash
+$ cat mission.txt
+> What you prove should never be what you reveal.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ ls modules/
+> okkult-proof/    okkult-shield/    okkult-relay/
+> okkult-vote/     okkult-id/        okkult-mail/
+```
+
+```bash
+$ cat stack.txt
+> Circom · Solidity · TypeScript · Next.js
+> Ethereum Mainnet · The Graph · Alchemy
+```
+
+```bash
+$ cat token.txt
+> Symbol  : $KULT
+> Network : Ethereum
+> Supply  : 100,000,000
+```
+
+```bash
+$ cat links.txt
+> Website : https://okkult.io
+> Twitter : https://x.com/Okkult_
+```
+
+```bash
+$ cat license.txt
+> MIT — open source, public good.
+```
+
+```bash
+$ echo "Prove everything. Reveal nothing."
+> Prove everything. Reveal nothing.
+```
